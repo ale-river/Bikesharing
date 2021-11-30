@@ -43,6 +43,6 @@ The finders for August 2019 citibike data are:
 
 - CitiBike Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers, that data creates a new need, such better user experiance interaction in the future.
 - CitiBike Analysis tells that 65.2% of the population are men, 25.1% are women, and 9.6% is unknown.
-- CitiBike Analysis says that the top trips by using a bike is less than an hour, and in the schedules: 8:00AM and 5-6PM.
+- CitiBike Analysis says that the top trips by using a bike is less than an hour, and the schedules are: @8:00AM and between 5-6PM.
 
 
